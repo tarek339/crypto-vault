@@ -1,0 +1,6 @@
+Total Amount Available: 4000
+Amount to Send: 3000
+Fee Rate: 1
+Change Amount Satoshi: 999
+From Address: tb1qjgg30ny5u0v9stfyak36jyqm95nru4y4qq84y3
+To Address: tb1qlj64u6fqutr0xue85kl55fx0gt4m4urun25p7q
